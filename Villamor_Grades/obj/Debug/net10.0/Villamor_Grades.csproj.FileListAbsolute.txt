@@ -1,0 +1,14 @@
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\bin\Debug\net10.0\Villamor_Grades.exe
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\bin\Debug\net10.0\Villamor_Grades.deps.json
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\bin\Debug\net10.0\Villamor_Grades.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\bin\Debug\net10.0\Villamor_Grades.dll
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\bin\Debug\net10.0\Villamor_Grades.pdb
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\Villamor_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\Villamor_Grades.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\Villamor_Grades.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\Villamor_Grades.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\Villamor_Grades.dll
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\refint\Villamor_Grades.dll
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\Villamor_Grades.pdb
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\Villamor_Grades.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC05\Desktop\Villamor_Grades\obj\Debug\net10.0\ref\Villamor_Grades.dll
