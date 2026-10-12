@@ -1,7 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
 //input
-while(true){
 Console.WriteLine("Grade Evaluation");
 Console.WriteLine("Enter your name: ");
 string name = Console.ReadLine();
@@ -66,17 +65,3 @@ Console.WriteLine("Numerical Grade/Equivalent: 1.00");
     Console.WriteLine("Numerical Grade/Equivalent: Incomplete");
 }
 }
-Console.WriteLine("Do you still want to evaluate your grade? (yes or no): ");
-string yesno = Console.ReadLine().ToLower();
-if(yesno == "no")
-    {
-        Console.WriteLine("Thank you for using Grade Evaluation!");
-    break;
-} else if(yesno == "yes")
-{
-        Console.WriteLine("Loading...");
-    } else 
-    {
-        Console.WriteLine("Error, but I'll take that as a yes");
-    }
-    } 
