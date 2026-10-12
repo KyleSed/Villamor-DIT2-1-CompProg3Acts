@@ -72,5 +72,13 @@ if(yesno == "no")
     {
         Console.WriteLine("Thank you for using Grade Evaluation!");
     break;
+    else if(yesno == "yes")
+    {
+        Console.WriteLine("Loading...");
+    } else 
+    {
+        Console.WriteLine("Error, but I'll take that as a yes");
     }
+    } 
+        
 }
